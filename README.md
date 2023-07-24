@@ -9,7 +9,7 @@ Welcome to _Pic2Recipe_, a one-of-a-kind culinary experience powered by YOLOv8 O
 
 Note:
 1. This version is only for demo purpose, if you are interested in the complete product, please contact us: jess880831@gmail.com.
-2. Since the file was too large, we only upload the pre-trained data and recipe for the part of model training.
+2. Since the file was too large, we didn't upload the training images.
 
 ## File Tree
 Please download the files and deposit them as the structure down below<br>
