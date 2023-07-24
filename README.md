@@ -25,6 +25,12 @@ To run the recipe web, please execute the following steps :
 **2. open the web**  
 `python -m streamlit run recipe_web.py`  
 
+## Application
+There are multiple function of this web app such as:  
+1. Picture to Recipe: Upload the picture of your ingredients and the app will list all the dished you can cook with those ingredients.
+2. Ingredients to Recipe: Directly enter the ingredients' names to get the recipes.
+3. Dish to Recipe: Enter the name of dish you want to cook, and the app will give you the recipe. 
+
 ## Reference
 1. Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You only look once: Unified, real-time object detection. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 779-788). 
 https://doi.org/10.48550/arXiv.1506.02640
