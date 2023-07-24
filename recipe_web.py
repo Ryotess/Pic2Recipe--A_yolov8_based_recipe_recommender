@@ -48,8 +48,8 @@ def object_detection_image():
 
         # Table
         pred_table = pd.DataFrame({'Ingredient' : pred_class, 'Confidence' : pred_conf})
-        pred_table["食材"] = pred_table["食材"].apply(lambda x: names[x])
-        pred_table.drop_duplicates(subset = ['食材'], inplace = True)
+        pred_table["Ingredient"] = pred_table["Ingredient"].apply(lambda x: names[x])
+        pred_table.drop_duplicates(subset = ['Ingredient'], inplace = True)
         hide_table_row_index = """
             <style>
             thead tr th:first-child {display:none}
