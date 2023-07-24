@@ -1,5 +1,5 @@
 # Pic2Recipe--A-yolov8-based-recipe-recommender
-
+https://github.com/Ryotess/Pic2Recipe--A-yolov8-based-recipe-recommender/blob/main/P2RExample.mp4
 ## About 
 Welcome to the Recipe Recommender, a one-of-a-kind culinary experience powered by YOLOv8 Object Detection! Say goodbye to the days of staring at a bunch of ingredients without a clue of what to cook. Our advanced AI-driven platform will not only identify the ingredients you have but also suggest mouthwatering recipes tailored to your available food items.
 
